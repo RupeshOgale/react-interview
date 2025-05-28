@@ -1,0 +1,10 @@
+
+.traficLight #red{
+background-color: red;
+}
+.traficLight #green{
+background-color: green;
+}
+.traficLight #yellow {
+    background-color: yellow;
+}

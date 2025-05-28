@@ -1,0 +1,77 @@
+ [
+    {
+        "subject": "Mathematics",
+        "subject_id": "MATH101",
+        "description": "Introduction to calculus and linear algebra."
+    },
+    {
+        "subject": "Physics",
+        "subject_id": "PHYS201",
+        "description": "Classical mechanics and electromagnetism."
+    },
+    {
+        "subject": "Computer Science",
+        "subject_id": "CS101",
+        "description": "Introduction to programming and data structures."
+    },
+    {
+        "subject": "Chemistry",
+        "subject_id": "CHEM101",
+        "description": "General chemistry principles and laboratory techniques."
+    },
+    {
+        "subject": "Biology",
+        "subject_id": "BIO101",
+        "description": "Introduction to cell biology and genetics."
+    },
+    {
+        "subject": "History",
+        "subject_id": "HIST101",
+        "description": "World history from ancient civilizations to the present."
+    },
+    {
+        "subject": "English Literature",
+        "subject_id": "ENGL101",
+        "description": "Survey of major works in English literature."
+    },
+    {
+        "subject": "Economics",
+        "subject_id": "ECON101",
+        "description": "Principles of microeconomics and macroeconomics."
+    },
+    {
+        "subject": "Psychology",
+        "subject_id": "PSYCH101",
+        "description": "Introduction to the study of human behavior and mental processes."
+    },
+    {
+        "subject": "Sociology",
+        "subject_id": "SOC101",
+        "description": "Introduction to the study of social structures and institutions."
+    },
+    {
+        "subject": "Art History",
+        "subject_id": "ARTH101",
+        "description": "Survey of major art movements and styles."
+    },
+    {
+        "subject": "Political Science",
+        "subject_id": "POLSCI101",
+        "description": "Introduction to political theory and government."
+    },
+    {
+        "subject": "Environmental Science",
+        "subject_id": "ENVSCI101",
+        "description": "Introduction to ecological principles and environmental issues."
+    },
+    {
+        "subject": "Data Science",
+        "subject_id": "DATASCI101",
+        "description": "Introduction to data analysis, visualization, and machine learning."
+    },
+    {
+        "subject": "Philosophy",
+        "subject_id": "PHIL101",
+        "description": "Introduction to major philosophical concepts and thinkers."
+    }
+]

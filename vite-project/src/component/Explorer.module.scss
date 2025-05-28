@@ -1,0 +1,16 @@
+.Explorer{
+    text-align: left;
+    p{
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        gap: 5px;
+        &[data-isFolder="true"]{
+            cursor: pointer;
+
+        }
+    }
+}
+.inner{
+    margin-left: 20px;
+}
