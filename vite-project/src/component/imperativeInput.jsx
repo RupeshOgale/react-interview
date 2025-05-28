@@ -5,6 +5,7 @@ const ImperativeInput = forwardRef((_props,ref) => {
     useImperativeHandle(ref,()=>{
         return{
             focus:()=>inputRef.current.focus(),
+            
             clear:()=>inputRef.current.value = ''
         }
     })
